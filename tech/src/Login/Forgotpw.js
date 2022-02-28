@@ -4,6 +4,7 @@ const Forgotpw = () => {
   return (
     <div>
     <div className="center">
+    <a href="/" className="close"> &times; </a>
         <h1>Forgot password</h1>
         <form method="post">
             <div className="txt_field">
